@@ -62,7 +62,7 @@ Please download original QA data and preprocess them via our [scripts](vila_data
 # Training
 We provide VLAP training script examples as follows.
 
-And please refer to [dataset page](vila_data/) to custom your data path.
+And please change your data path.
 
 ## 1) Pre-training teacher
 ```bash
